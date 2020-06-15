@@ -1,1 +1,1 @@
-# covidi
+# covid19api
